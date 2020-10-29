@@ -8,7 +8,7 @@ Data exploration:
 * [Labels distribution](https://github.com/FranciscaAlliende/hardrivefailureprediction/blob/main/Data_Exploration_Labels.ipynb)
 
 Basic data pre-processing
-* Filter model ST4000DM000 (directly in Big Query
+* Filter model ST4000DM000 (directly in Big Query)
 * [Feature selection]
 * [Remaining null values]
 
